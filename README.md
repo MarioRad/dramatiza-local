@@ -1,4 +1,4 @@
-# Sistema de Inscripciones a Talleres
+# Fork de Sistema de Inscripciones a Talleres
 
 Aplicación web para inscribir personas a talleres con cupos limitados. Hay 25 talleres repartidos en 3 días. Una persona puede inscribirse a los talleres que desee, verificando que no se superpongan en horario.
 
